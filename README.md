@@ -41,7 +41,7 @@ I believe that scalable quality systems empower innovation and strengthen global
 ### 📫 Let’s Connect
 💼 [LinkedIn](https://linkedin.com/in/dashatsion)  
 🧪 [Dev.to Blog](https://dev.to/dashatsion)  
-👩‍🏫 [ADPList]([https://app.adplist.org/](https://adplist.org/mentors/daria-tsion))  
+👩‍🏫 [ADPList](https://adplist.org/mentors/daria-tsion)  
 🌐 [Everlabs](https://everlabs.com)
 
 
